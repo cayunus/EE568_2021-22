@@ -1,0 +1,72 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002022, month=000000000006, day=000000000014, hour=000000000001, min=000000000018, sec=000000000038)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000001768, lin=000000000052, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=0, Instance=\'SetupDefinition\', Solution=-1, VersionID=80)'='SolutionBlock8'
+	'SolutionKey(SimSetup=0, Instance=\'SolutionDefinition\', Solution=1, VersionID=80)'='SolutionBlock7'
+$end 'BlockMapName'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='pmsg-1'
+	VersionID=80
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=109
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='', ID=49)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+$end 'SolutionBlock1'
+$begin 'SolutionBlock7'
+	SolutionName='Performance'
+	SolutionID=1
+	V=80
+	$begin 'States'
+		F(VID=49, Ver=80)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies()
+		SolutionType=1
+		CenterFreq=0
+	$end 'Definition'
+	$begin 'SolutionDataFiles'
+		MSolutionData(VID=49, Ver=80, Dir='DV49_SOL1_V80.MSolutionData/')
+	$end 'SolutionDataFiles'
+	$begin 'SolverDataFiles'
+		MSolverData(VID=49, Ver=80, File='DV49_SOL1_V80.MSolverData')
+	$end 'SolverDataFiles'
+	$begin 'ExportDataFiles'
+		MExportData(VID=49, Ver=80, Dir='DV49_SOL1_V80.MExportData/')
+	$end 'ExportDataFiles'
+	$begin 'CurvesDataFiles'
+		MCurvesData(VID=49, Ver=80, Dir='DV49_SOL1_V80.MCurvesData/')
+	$end 'CurvesDataFiles'
+$end 'SolutionBlock7'
+$begin 'SolutionBlock8'
+	SimSetupID=0
+	SimSetupName='Setup1'
+	VersionID=80
+	SolveSetupID=0
+$end 'SolutionBlock8'
+$begin '$index$'
+	$begin '$index$'
+		SolutionBlock7(pos=927, lin=20, lvl=0)
+		SolutionBlock8(pos=1655, lin=46, lvl=0)
+		SolutionBlock1(pos=645, lin=6, lvl=0)
+		BlockMapName(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=1768, lin=52, lvl=0)
+	$end '$index$'
+$end '$index$'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

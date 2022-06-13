@@ -1,0 +1,35 @@
+B_DATA
+ slots 21
+ poles 20
+ phases 3
+ type 21
+ pitch 1
+ turns 26
+ multipliers 1
+ const_pitch 1
+ const_turns 1
+E_DATA
+
+B_COILS 21
+  A      26      1T      2B
+  B      26      2T      3B
+ -B      26      3T      4B
+  B      26      4T      5B
+ -B      26      5T      6B
+  B      26      6T      7B
+ -B      26      7T      8B
+  B      26      8T      9B
+  C      26      9T     10B
+ -C      26     10T     11B
+  C      26     11T     12B
+ -C      26     12T     13B
+  C      26     13T     14B
+ -C      26     14T     15B
+  C      26     15T     16B
+  A      26     16T     17B
+ -A      26     17T     18B
+  A      26     18T     19B
+ -A      26     19T     20B
+  A      26     20T     21B
+ -A      26     21T      1B
+E_COILS
