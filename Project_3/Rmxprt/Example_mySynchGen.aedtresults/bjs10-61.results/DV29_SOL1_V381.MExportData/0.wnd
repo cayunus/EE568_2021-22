@@ -1,0 +1,89 @@
+B_DATA
+ slots 300
+ poles 32
+ phases 3
+ type 21
+ pitch 9
+ turns 1
+ multipliers 4
+ const_pitch 1
+ const_turns 1
+E_DATA
+
+B_COILS 75
+  A       1      1T     10B
+  A       1      2T     11B
+  A       1      3T     12B
+  A       1      4T     13B
+ -C       1      5T     14B
+ -C       1      6T     15B
+ -C       1      7T     16B
+  B       1      8T     17B
+  B       1      9T     18B
+  B       1     10T     19B
+ -A       1     11T     20B
+ -A       1     12T     21B
+ -A       1     13T     22B
+  C       1     14T     23B
+  C       1     15T     24B
+  C       1     16T     25B
+ -B       1     17T     26B
+ -B       1     18T     27B
+ -B       1     19T     28B
+  A       1     20T     29B
+  A       1     21T     30B
+  A       1     22T     31B
+ -C       1     23T     32B
+ -C       1     24T     33B
+ -C       1     25T     34B
+  B       1     26T     35B
+  B       1     27T     36B
+  B       1     28T     37B
+  B       1     29T     38B
+ -A       1     30T     39B
+ -A       1     31T     40B
+ -A       1     32T     41B
+  C       1     33T     42B
+  C       1     34T     43B
+  C       1     35T     44B
+ -B       1     36T     45B
+ -B       1     37T     46B
+ -B       1     38T     47B
+  A       1     39T     48B
+  A       1     40T     49B
+  A       1     41T     50B
+ -C       1     42T     51B
+ -C       1     43T     52B
+ -C       1     44T     53B
+  B       1     45T     54B
+  B       1     46T     55B
+  B       1     47T     56B
+ -A       1     48T     57B
+ -A       1     49T     58B
+ -A       1     50T     59B
+  C       1     51T     60B
+  C       1     52T     61B
+  C       1     53T     62B
+  C       1     54T     63B
+ -B       1     55T     64B
+ -B       1     56T     65B
+ -B       1     57T     66B
+  A       1     58T     67B
+  A       1     59T     68B
+  A       1     60T     69B
+ -C       1     61T     70B
+ -C       1     62T     71B
+ -C       1     63T     72B
+  B       1     64T     73B
+  B       1     65T     74B
+  B       1     66T     75B
+ -A       1     67T     76B
+ -A       1     68T     77B
+ -A       1     69T     78B
+  C       1     70T     79B
+  C       1     71T     80B
+  C       1     72T     81B
+ -B       1     73T     82B
+ -B       1     74T     83B
+ -B       1     75T     84B
+E_COILS

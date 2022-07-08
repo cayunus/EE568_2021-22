@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='conds=\'1\' delta=\'-28.755788044537425deg\' fractions=\'4\' Le1=\'0.00046156375900369416H\' R1=\'0.01321465675628462ohm\''
+		Status=true
+		FileName='VI783D15536165724429953.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

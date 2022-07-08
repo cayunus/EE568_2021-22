@@ -1,0 +1,75 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002022, month=000000000007, day=000000000008, hour=000000000011, min=000000000010, sec=000000000006)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000001920, lin=000000000055, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock3'
+	ProductName=''
+	CircuitName='bjs10-61'
+	VersionID=381
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=395
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='', ID=29)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+$end 'SolutionBlock3'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock3'
+	'SolutionKey(SimSetup=0, Instance=\'SetupDefinition\', Solution=-1, VersionID=381)'='SolutionBlock43'
+	'SolutionKey(SimSetup=0, Instance=\'SolutionDefinition\', Solution=1, VersionID=381)'='SolutionBlock42'
+$end 'BlockMapName'
+$begin 'SolutionBlock42'
+	SolutionName='Performance'
+	SolutionID=1
+	V=381
+	$begin 'States'
+		F(VID=29, Ver=381)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies()
+		SolutionType=1
+		CenterFreq=0
+	$end 'Definition'
+	$begin 'SolutionDataFiles'
+		MSolutionData(VID=29, Ver=381, Dir='DV29_SOL1_V381.MSolutionData/')
+	$end 'SolutionDataFiles'
+	$begin 'SolverDataFiles'
+		MSolverData(VID=29, Ver=381, File='DV29_SOL1_V381.MSolverData')
+	$end 'SolverDataFiles'
+	$begin 'ExportDataFiles'
+		MExportData(VID=29, Ver=381, Dir='DV29_SOL1_V381.MExportData/')
+	$end 'ExportDataFiles'
+	$begin 'CurvesDataFiles'
+		MCurvesData(VID=29, Ver=381, Dir='DV29_SOL1_V381.MCurvesData/')
+	$end 'CurvesDataFiles'
+	$begin 'Modifier'
+		M(VID=29, Ver=381, M=0, M=0.1, M=0.2, M=0.3, M=0.4, M=0.5, M=0.6, M=0.7, M=0.8, M=0.9, M=1)
+	$end 'Modifier'
+$end 'SolutionBlock42'
+$begin 'SolutionBlock43'
+	SimSetupID=0
+	SimSetupName='Setup1'
+	VersionID=381
+	SolveSetupID=0
+$end 'SolutionBlock43'
+$begin '$index$'
+	$begin '$index$'
+		SolutionBlock42(pos=934, lin=20, lvl=0)
+		SolutionBlock43(pos=1804, lin=49, lvl=0)
+		SolutionBlock3(pos=370, lin=1, lvl=0)
+		BlockMapName(pos=655, lin=15, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=1920, lin=55, lvl=0)
+	$end '$index$'
+$end '$index$'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
